@@ -34,6 +34,11 @@
     align-items: center;
     object-fit: fill;
     }
+    &-post{
+      width: 100%;
+      height: auto;
+      max-height: 300px;
+    }
   }
   &__text{
     display: flex;
